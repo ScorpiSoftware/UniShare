@@ -1,1 +1,1 @@
-This branch consists of the code for the app portion of this project and acts as a subdomain.
+This is the main hub of UniShare where students can interact with the platform.
